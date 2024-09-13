@@ -7,7 +7,7 @@ Frontend Web Developer and AI Enthusiast
 * 🌍  I'm based in California, USA
 * 🖥️  See my portfolio at [skysavona.com](http://skysavona.com)
 * ✉️  You can contact me at [me@skysavona.com](mailto:me@skysavona.com)
-* 🚀  I'm currently working on [NaturaSpa](http://natura-spa-pi.vercel.app/)
+* 🚀  I'm currently working on [Skinstric Internship](https://skinstric-internship.vercel.app)
 * 🧠  I'm learning Express.js
 * 🤝  I'm open to collaborating on anything fun!
 * ⚡  I'm passionate about AI and excited to see how it shapes the future

@@ -1,16 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sky Savona
 ==================================================================================================================================
 
-Web Developer and AI Enthusiast
-----------------------------------------
 
-* 🌍  I'm based in California, USA
-* 🖥️  See my portfolio at [skysavona.com](http://skysavona.com)
-* ✉️  You can contact me at [me@skysavona.com](mailto:me@skysavona.com)
-* 🚀  I'm currently working on [Skinstric Internship](https://skinstric-internship.vercel.app)
-* 🧠  I'm learning Express.js
-* 🤝  I'm open to collaborating on anything fun!
-* ⚡  I'm passionate about AI and excited to see how it shapes the future
+### Web Developer & Accessibility Specialist 🚀  
+Passionate about crafting accessible, responsive, and performance-optimized digital experiences.
+
+---
+
+* 🌍  **Based in:** California, USA  
+* 🖥️  **Portfolio:** [skysavona.com](https://skysavona.com)  
+* ✉️  **Contact:** [me@skysavona.com](mailto:me@skysavona.com)  
+* 🚀  **Current Project:** [Skinstric Internship](https://skinstric-internship.vercel.app)  
+* 🧠  **Learning:** Express.js and advanced accessibility techniques  
+* 🤝  **Collaboration:** Open to building inclusive and innovative web applications  
+* ⚡  **Passion:** Accessibility, AI, and how technology shapes a better, more inclusive future  
+
+---
+
 
 ### Skills
 

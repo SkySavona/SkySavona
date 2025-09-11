@@ -1,9 +1,9 @@
 Hi
 My name is Sky Savona
-Founder & CEO of DesignDojo.io
+Founder & CEO of DesignDojo™
  🚀
 
-I’m the founder and CEO of DesignDojo.io
+I’m the founder and CEO of DesignDojo™
 , a digital innovation studio that helps brands and entrepreneurs build accessible, responsive, and performance-optimized digital experiences.
 
 At DesignDojo, we focus on crafting solutions that are:

@@ -1,25 +1,15 @@
-Hi
-My name is Sky Savona
-Founder & CEO of DesignDojo™
- 🚀
+👋 Hi, I’m **Sky Savona** — Frontend Engineer (Accessibility-Focused)
 
-I’m the founder and CEO of DesignDojo™
-, a digital innovation studio that helps brands and entrepreneurs build accessible, responsive, and performance-optimized digital experiences.
+I build fast, inclusive, high-performing web experiences using **Next.js**, **React**, and **TypeScript** — designed to deliver real business results.
 
-At DesignDojo, we focus on crafting solutions that are:
+Previously, I founded **DesignDojo™**, where I helped service-based brands and entrepreneurs launch accessible, SEO-optimized, and performance-driven websites.
 
-Accessible → Designed so everyone can use them.
+My work centers around three principles:
+- ♿ **Accessibility:** WCAG-compliant, screen-reader friendly, fully keyboard navigable  
+- ⚡ **Performance:** 95–100 Lighthouse scores, optimized Core Web Vitals  
+- 💡 **Scalability:** Modern frameworks, AI-assisted testing, clean component architecture  
 
-Scalable → Built to grow with your business.
+**Mission:** Make the web faster, more inclusive, and more impactful — one interface at a time.
 
-Future-Ready → Leveraging modern frameworks, AI, and cutting-edge design.
-
-My mission is to make the web more inclusive, high-performing, and impactful.
-
-🌍 Based in: California, USA
-
-🖥️ Website: DesignDojo.io
-
-✉️ Contact: info@designdojo.io
-
-💡 Passion: Accessibility, AI, and next-generation digital products
+🌍 Based in California, USA  
+💻 [Portfolio](https://www.skysavona.com) • [Email](mailto:me@skysavona.com) • [LinkedIn](https://www.linkedin.com/in/skysavona)
